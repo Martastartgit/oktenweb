@@ -1,0 +1,14 @@
+body {
+    background-color: #696969;
+    color: #fff;
+    padding: 15px 40px;
+}
+.article__header {
+    text-align: center;
+}
+.article__img {
+    width: 500px;
+    height: 350px;
+    float: right;
+    margin-right: 50px;
+}
